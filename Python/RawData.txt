@@ -1,0 +1,1894 @@
+<html lang="en" op="news">
+ <head>
+  <meta content="origin" name="referrer"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="news.css?NuJxPWD6iCYOtPYI8iS2" rel="stylesheet" type="text/css"/>
+  <link href="favicon.ico" rel="shortcut icon"/>
+  <link href="rss" rel="alternate" title="RSS" type="application/rss+xml"/>
+  <title>
+   Hacker News
+  </title>
+ </head>
+ <body>
+  <center>
+   <table bgcolor="#f6f6ef" border="0" cellpadding="0" cellspacing="0" id="hnmain" width="85%">
+    <tr>
+     <td bgcolor="#ff6600">
+      <table border="0" cellpadding="0" cellspacing="0" style="padding:2px" width="100%">
+       <tr>
+        <td style="width:18px;padding-right:4px">
+         <a href="https://news.ycombinator.com">
+          <img height="18" src="y18.gif" style="border:1px white solid;" width="18"/>
+         </a>
+        </td>
+        <td style="line-height:12pt; height:10px;">
+         <span class="pagetop">
+          <b class="hnname">
+           <a href="news">
+            Hacker News
+           </a>
+          </b>
+          <a href="newest">
+           new
+          </a>
+          |
+          <a href="front">
+           past
+          </a>
+          |
+          <a href="newcomments">
+           comments
+          </a>
+          |
+          <a href="ask">
+           ask
+          </a>
+          |
+          <a href="show">
+           show
+          </a>
+          |
+          <a href="jobs">
+           jobs
+          </a>
+          |
+          <a href="submit">
+           submit
+          </a>
+         </span>
+        </td>
+        <td style="text-align:right;padding-right:4px;">
+         <span class="pagetop">
+          <a href="login?goto=news">
+           login
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr id="pagespace" style="height:10px" title="">
+    </tr>
+    <tr>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0" class="itemlist">
+       <tr class="athing" id="24091096">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          1.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24091096&amp;how=up&amp;goto=news" id="up_24091096">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/">
+          Formulog: ML + Datalog + SMT
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=weaselhat.com">
+           <span class="sitestr">
+            weaselhat.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24091096">
+          32 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=matt_d">
+          matt_d
+         </a>
+         <span class="age">
+          <a href="item?id=24091096">
+           2 hours ago
+          </a>
+         </span>
+         <span id="unv_24091096">
+         </span>
+         |
+         <a href="hide?id=24091096&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24091096">
+          3 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24083738">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          2.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24083738&amp;how=up&amp;goto=news" id="up_24083738">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/">
+          The Psychedelic Inspiration for Hypercard (2018)
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=mondo2000.com">
+           <span class="sitestr">
+            mondo2000.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24083738">
+          130 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=bobbiechen">
+          bobbiechen
+         </a>
+         <span class="age">
+          <a href="item?id=24083738">
+           8 hours ago
+          </a>
+         </span>
+         <span id="unv_24083738">
+         </span>
+         |
+         <a href="hide?id=24083738&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24083738">
+          56 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24090104">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          3.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24090104&amp;how=up&amp;goto=news" id="up_24090104">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="http://library.cust.edu.pk/teacher_resources/Cases&amp;Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf">
+          Bootstrap finance and the cost of other people's money [pdf]
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=cust.edu.pk">
+           <span class="sitestr">
+            cust.edu.pk
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24090104">
+          60 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=sturza">
+          sturza
+         </a>
+         <span class="age">
+          <a href="item?id=24090104">
+           6 hours ago
+          </a>
+         </span>
+         <span id="unv_24090104">
+         </span>
+         |
+         <a href="hide?id=24090104&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24090104">
+          20 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24088985">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          4.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24088985&amp;how=up&amp;goto=news" id="up_24088985">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics">
+          So You Want to Learn Physics (2016)
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=susanjfowler.com">
+           <span class="sitestr">
+            susanjfowler.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24088985">
+          157 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=apsec112">
+          apsec112
+         </a>
+         <span class="age">
+          <a href="item?id=24088985">
+           10 hours ago
+          </a>
+         </span>
+         <span id="unv_24088985">
+         </span>
+         |
+         <a href="hide?id=24088985&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24088985">
+          57 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24091006">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          5.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24091006&amp;how=up&amp;goto=news" id="up_24091006">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://www.protocol.com/google-smart-speaker-alarm-adt">
+          Google speakers are listening to more than just voice commands
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=protocol.com">
+           <span class="sitestr">
+            protocol.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24091006">
+          97 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=kiyanwang">
+          kiyanwang
+         </a>
+         <span class="age">
+          <a href="item?id=24091006">
+           2 hours ago
+          </a>
+         </span>
+         <span id="unv_24091006">
+         </span>
+         |
+         <a href="hide?id=24091006&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24091006">
+          69 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24091010">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          6.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24091010&amp;how=up&amp;goto=news" id="up_24091010">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://disc-projects.bu.edu/lethe/">
+          Tunable Delete Aware LSM Engine
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=bu.edu">
+           <span class="sitestr">
+            bu.edu
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24091010">
+          8 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=abby_3017">
+          abby_3017
+         </a>
+         <span class="age">
+          <a href="item?id=24091010">
+           2 hours ago
+          </a>
+         </span>
+         <span id="unv_24091010">
+         </span>
+         |
+         <a href="hide?id=24091010&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24091010">
+          discuss
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24091707">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          7.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24091707&amp;how=up&amp;goto=news" id="up_24091707">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="item?id=24091707">
+          Ask HN: What feature did you find after years of using macOS?
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24091707">
+          20 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=hooda">
+          hooda
+         </a>
+         <span class="age">
+          <a href="item?id=24091707">
+           40 minutes ago
+          </a>
+         </span>
+         <span id="unv_24091707">
+         </span>
+         |
+         <a href="hide?id=24091707&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24091707">
+          18 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24090694">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          8.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24090694&amp;how=up&amp;goto=news" id="up_24090694">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://www.theguardian.com/world/live/2020/aug/07/coronavirus-live-news-africa-passes-1-million-cases-checkpoints-outside-new-york-city">
+          Norway advises citizens to avoid all travel abroad
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=theguardian.com">
+           <span class="sitestr">
+            theguardian.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24090694">
+          66 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=bookofjoe">
+          bookofjoe
+         </a>
+         <span class="age">
+          <a href="item?id=24090694">
+           3 hours ago
+          </a>
+         </span>
+         <span id="unv_24090694">
+         </span>
+         |
+         <a href="hide?id=24090694&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24090694">
+          37 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24091035">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          9.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24091035&amp;how=up&amp;goto=news" id="up_24091035">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://lg.substack.com/p/the-looking-glass-a-user-guide-to" rel="nofollow">
+          A User Guide To Working With You
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=lg.substack.com">
+           <span class="sitestr">
+            lg.substack.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24091035">
+          11 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=achairapart">
+          achairapart
+         </a>
+         <span class="age">
+          <a href="item?id=24091035">
+           2 hours ago
+          </a>
+         </span>
+         <span id="unv_24091035">
+         </span>
+         |
+         <a href="hide?id=24091035&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24091035">
+          2 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24089074">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          10.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24089074&amp;how=up&amp;goto=news" id="up_24089074">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://postlight.com/insights/building-kind-social-networks#.69mdqenq2">
+          Building Kind Social Networks (2018)
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=postlight.com">
+           <span class="sitestr">
+            postlight.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24089074">
+          8 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=rfreytag">
+          rfreytag
+         </a>
+         <span class="age">
+          <a href="item?id=24089074">
+           3 hours ago
+          </a>
+         </span>
+         <span id="unv_24089074">
+         </span>
+         |
+         <a href="hide?id=24089074&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24089074">
+          2 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24090492">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          11.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24090492&amp;how=up&amp;goto=news" id="up_24090492">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://divinations.substack.com/p/oatly-the-new-coke#">
+          Oatly: The New Coke?
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=divinations.substack.com">
+           <span class="sitestr">
+            divinations.substack.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24090492">
+          249 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=dshipper">
+          dshipper
+         </a>
+         <span class="age">
+          <a href="item?id=24090492">
+           4 hours ago
+          </a>
+         </span>
+         <span id="unv_24090492">
+         </span>
+         |
+         <a href="hide?id=24090492&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24090492">
+          222 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24078853">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          12.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24078853&amp;how=up&amp;goto=news" id="up_24078853">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/">
+          Pocket P.C. Open Sourced
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=popcorncomputer.com">
+           <span class="sitestr">
+            popcorncomputer.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24078853">
+          107 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=nullagent">
+          nullagent
+         </a>
+         <span class="age">
+          <a href="item?id=24078853">
+           13 hours ago
+          </a>
+         </span>
+         <span id="unv_24078853">
+         </span>
+         |
+         <a href="hide?id=24078853&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24078853">
+          53 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24091257">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          13.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24091257&amp;how=up&amp;goto=news" id="up_24091257">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://twitter.com/kmcquade3/status/1291801858676228098">
+          IAM is hard – Thoughts on $80M fine from the Capital One Breach
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=twitter.com">
+           <span class="sitestr">
+            twitter.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24091257">
+          24 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=bharatsb">
+          bharatsb
+         </a>
+         <span class="age">
+          <a href="item?id=24091257">
+           1 hour ago
+          </a>
+         </span>
+         <span id="unv_24091257">
+         </span>
+         |
+         <a href="hide?id=24091257&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24091257">
+          9 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24091588">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          14.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24091588&amp;how=up&amp;goto=news" id="up_24091588">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://medium.com/message/networks-without-networks-7644933a3100">
+          The Sixth Stage of Grief Is Retro-Computing (2014)
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=medium.com">
+           <span class="sitestr">
+            medium.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24091588">
+          10 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=cpcallen">
+          cpcallen
+         </a>
+         <span class="age">
+          <a href="item?id=24091588">
+           1 hour ago
+          </a>
+         </span>
+         <span id="unv_24091588">
+         </span>
+         |
+         <a href="hide?id=24091588&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24091588">
+          2 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24091721">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          15.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24091721&amp;how=up&amp;goto=news" id="up_24091721">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://www.nytimes.com/2020/08/07/science/supernova-neutron-star-sn1987a.html" rel="nofollow">
+          A Star Went Supernova in 1987. Where Is It Now?
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=nytimes.com">
+           <span class="sitestr">
+            nytimes.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24091721">
+          6 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=SREinSF">
+          SREinSF
+         </a>
+         <span class="age">
+          <a href="item?id=24091721">
+           38 minutes ago
+          </a>
+         </span>
+         <span id="unv_24091721">
+         </span>
+         |
+         <a href="hide?id=24091721&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24091721">
+          discuss
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24091577">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          16.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24091577&amp;how=up&amp;goto=news" id="up_24091577">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="item?id=24091577">
+          Ask and Show HN: Ever coded for love? Willing to share?
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24091577">
+          23 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=throwaway3189">
+          throwaway3189
+         </a>
+         <span class="age">
+          <a href="item?id=24091577">
+           1 hour ago
+          </a>
+         </span>
+         <span id="unv_24091577">
+         </span>
+         |
+         <a href="hide?id=24091577&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24091577">
+          7 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24084758">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          17.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24084758&amp;how=up&amp;goto=news" id="up_24084758">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="item?id=24084758">
+          Launch HN: Nestybox (YC S20) – Containers beyond microservices
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24084758">
+          137 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=ctalledo">
+          ctalledo
+         </a>
+         <span class="age">
+          <a href="item?id=24084758">
+           20 hours ago
+          </a>
+         </span>
+         <span id="unv_24084758">
+         </span>
+         |
+         <a href="hide?id=24084758&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24084758">
+          86 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24088582">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          18.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24088582&amp;how=up&amp;goto=news" id="up_24088582">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="item?id=24088582">
+          Ask HN: Films that made you see the world differently?
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24088582">
+          47 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=pizza">
+          pizza
+         </a>
+         <span class="age">
+          <a href="item?id=24088582">
+           11 hours ago
+          </a>
+         </span>
+         <span id="unv_24088582">
+         </span>
+         |
+         <a href="hide?id=24088582&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24088582">
+          58 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24079592">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          19.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24079592&amp;how=up&amp;goto=news" id="up_24079592">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://hndex.org/">
+          Show HN: Hndex.org – a full-text search engine of articles submitted to HN
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=hndex.org">
+           <span class="sitestr">
+            hndex.org
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24079592">
+          348 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=mcovalt">
+          mcovalt
+         </a>
+         <span class="age">
+          <a href="item?id=24079592">
+           17 hours ago
+          </a>
+         </span>
+         <span id="unv_24079592">
+         </span>
+         |
+         <a href="hide?id=24079592&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24079592">
+          65 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24088202">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          20.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24088202&amp;how=up&amp;goto=news" id="up_24088202">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://hndex.org/7798063">
+          Alcohol as a social technology to check the trustworthiness of others (2014)
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=hndex.org">
+           <span class="sitestr">
+            hndex.org
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24088202">
+          310 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=searchableguy">
+          searchableguy
+         </a>
+         <span class="age">
+          <a href="item?id=24088202">
+           13 hours ago
+          </a>
+         </span>
+         <span id="unv_24088202">
+         </span>
+         |
+         <a href="hide?id=24088202&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24088202">
+          337 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24088517">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          21.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24088517&amp;how=up&amp;goto=news" id="up_24088517">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution">
+          Drivers who keep their windows down are exposed to 80 percent more air pollution
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=surrey.ac.uk">
+           <span class="sitestr">
+            surrey.ac.uk
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24088517">
+          147 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=clouddrover">
+          clouddrover
+         </a>
+         <span class="age">
+          <a href="item?id=24088517">
+           12 hours ago
+          </a>
+         </span>
+         <span id="unv_24088517">
+         </span>
+         |
+         <a href="hide?id=24088517&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24088517">
+          154 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24088154">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          22.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24088154&amp;how=up&amp;goto=news" id="up_24088154">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://github.com/inoda/ontrack">
+          Show HN: A simple FOSS and self-hosted budgeting app
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=github.com">
+           <span class="sitestr">
+            github.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24088154">
+          61 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=inoda">
+          inoda
+         </a>
+         <span class="age">
+          <a href="item?id=24088154">
+           13 hours ago
+          </a>
+         </span>
+         <span id="unv_24088154">
+         </span>
+         |
+         <a href="hide?id=24088154&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24088154">
+          9 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24090923">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          23.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24090923&amp;how=up&amp;goto=news" id="up_24090923">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617">
+          How Chinese Officials Hijacked My Company
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=wsj.com">
+           <span class="sitestr">
+            wsj.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24090923">
+          94 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=ilamont">
+          ilamont
+         </a>
+         <span class="age">
+          <a href="item?id=24090923">
+           2 hours ago
+          </a>
+         </span>
+         <span id="unv_24090923">
+         </span>
+         |
+         <a href="hide?id=24090923&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24090923">
+          70 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24089281">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          24.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24089281&amp;how=up&amp;goto=news" id="up_24089281">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://arxiv.org/pdf/2008.02307.pdf">
+          Speculative Dereferencing of Registers: Reviving Foreshadow [pdf]
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=arxiv.org">
+           <span class="sitestr">
+            arxiv.org
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24089281">
+          152 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=beefhash">
+          beefhash
+         </a>
+         <span class="age">
+          <a href="item?id=24089281">
+           9 hours ago
+          </a>
+         </span>
+         <span id="unv_24089281">
+         </span>
+         |
+         <a href="hide?id=24089281&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24089281">
+          41 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24080621">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          25.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24080621&amp;how=up&amp;goto=news" id="up_24080621">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://phys.org/news/2020-08-chemists-brightest-ever-fluorescent-materials.html">
+          Chemists create the brightest-ever fluorescent materials
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=phys.org">
+           <span class="sitestr">
+            phys.org
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24080621">
+          26 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=bookofjoe">
+          bookofjoe
+         </a>
+         <span class="age">
+          <a href="item?id=24080621">
+           9 hours ago
+          </a>
+         </span>
+         <span id="unv_24080621">
+         </span>
+         |
+         <a href="hide?id=24080621&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24080621">
+          6 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24085158">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          26.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24085158&amp;how=up&amp;goto=news" id="up_24085158">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees">
+          Government’s PACER Fees Are Too High, Federal Circuit Says
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=bloomberglaw.com">
+           <span class="sitestr">
+            bloomberglaw.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24085158">
+          315 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=elliekelly">
+          elliekelly
+         </a>
+         <span class="age">
+          <a href="item?id=24085158">
+           20 hours ago
+          </a>
+         </span>
+         <span id="unv_24085158">
+         </span>
+         |
+         <a href="hide?id=24085158&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24085158">
+          141 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24083260">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          27.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24083260&amp;how=up&amp;goto=news" id="up_24083260">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://www.fast.design/docs/introduction">
+          Microsoft Fast Design
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=fast.design">
+           <span class="sitestr">
+            fast.design
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24083260">
+          574 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=no_wizard">
+          no_wizard
+         </a>
+         <span class="age">
+          <a href="item?id=24083260">
+           22 hours ago
+          </a>
+         </span>
+         <span id="unv_24083260">
+         </span>
+         |
+         <a href="hide?id=24083260&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24083260">
+          185 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24078369">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          28.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24078369&amp;how=up&amp;goto=news" id="up_24078369">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/">
+          Why Apple believes it’s an AI leader–and why it says critics have it all wrong
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=arstechnica.com">
+           <span class="sitestr">
+            arstechnica.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24078369">
+          156 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=arunbahl">
+          arunbahl
+         </a>
+         <span class="age">
+          <a href="item?id=24078369">
+           12 hours ago
+          </a>
+         </span>
+         <span id="unv_24078369">
+         </span>
+         |
+         <a href="hide?id=24078369&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24078369">
+          163 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24078799">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          29.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24078799&amp;how=up&amp;goto=news" id="up_24078799">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/">
+          Toshiba formally and finally exits laptop business
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=theregister.com">
+           <span class="sitestr">
+            theregister.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24078799">
+          282 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=kiyanwang">
+          kiyanwang
+         </a>
+         <span class="age">
+          <a href="item?id=24078799">
+           20 hours ago
+          </a>
+         </span>
+         <span id="unv_24078799">
+         </span>
+         |
+         <a href="hide?id=24078799&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24078799">
+          136 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="athing" id="24085343">
+        <td align="right" class="title" valign="top">
+         <span class="rank">
+          30.
+         </span>
+        </td>
+        <td class="votelinks" valign="top">
+         <center>
+          <a href="vote?id=24085343&amp;how=up&amp;goto=news" id="up_24085343">
+           <div class="votearrow" title="upvote">
+           </div>
+          </a>
+         </center>
+        </td>
+        <td class="title">
+         <a class="storylink" href="https://threadreaderapp.com/thread/1291509746000855040.html">
+          Tech giants let the Web's metadata schemas and infrastructure languish
+         </a>
+         <span class="sitebit comhead">
+          (
+          <a href="from?site=threadreaderapp.com">
+           <span class="sitestr">
+            threadreaderapp.com
+           </span>
+          </a>
+          )
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="subtext">
+         <span class="score" id="score_24085343">
+          279 points
+         </span>
+         by
+         <a class="hnuser" href="user?id=timhigins">
+          timhigins
+         </a>
+         <span class="age">
+          <a href="item?id=24085343">
+           19 hours ago
+          </a>
+         </span>
+         <span id="unv_24085343">
+         </span>
+         |
+         <a href="hide?id=24085343&amp;goto=news">
+          hide
+         </a>
+         |
+         <a href="item?id=24085343">
+          70 comments
+         </a>
+        </td>
+       </tr>
+       <tr class="spacer" style="height:5px">
+       </tr>
+       <tr class="morespace" style="height:10px">
+       </tr>
+       <tr>
+        <td colspan="2">
+        </td>
+        <td class="title">
+         <a class="morelink" href="news?p=2" rel="next">
+          More
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <img height="10" src="s.gif" width="0"/>
+      <table cellpadding="1" cellspacing="0" width="100%">
+       <tr>
+        <td bgcolor="#ff6600">
+        </td>
+       </tr>
+      </table>
+      <br/>
+      <center>
+       <span class="yclinks">
+        <a href="newsguidelines.html">
+         Guidelines
+        </a>
+        |
+        <a href="newsfaq.html">
+         FAQ
+        </a>
+        |
+        <a href="mailto:hn@ycombinator.com">
+         Support
+        </a>
+        |
+        <a href="https://github.com/HackerNews/API">
+         API
+        </a>
+        |
+        <a href="security.html">
+         Security
+        </a>
+        |
+        <a href="lists">
+         Lists
+        </a>
+        |
+        <a href="bookmarklet.html" rel="nofollow">
+         Bookmarklet
+        </a>
+        |
+        <a href="http://www.ycombinator.com/legal/">
+         Legal
+        </a>
+        |
+        <a href="http://www.ycombinator.com/apply/">
+         Apply to YC
+        </a>
+        |
+        <a href="mailto:hn@ycombinator.com">
+         Contact
+        </a>
+       </span>
+       <br/>
+       <br/>
+       <form action="//hn.algolia.com/" method="get">
+        Search:
+        <input autocapitalize="off" autocomplete="false" autocorrect="off" name="q" size="17" spellcheck="false" type="text" value=""/>
+       </form>
+      </center>
+     </td>
+    </tr>
+   </table>
+  </center>
+ </body>
+ <script src="hn.js?NuJxPWD6iCYOtPYI8iS2" type="text/javascript">
+ </script>
+</html>
+
+n
+names=soup.find_all('span',class_='pagetop')
+​
