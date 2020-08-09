@@ -2,10 +2,10 @@ We have to scrapp data from https://news.ycombinator.com and then store the resu
 1.URL and title of blog.
 2.URL and its metadata like title,votes etc.
 
-Language -Python
-Library used for scrapping - Beautiful Soup
-IDE used -Jupyter notebook
-DB used -MongoDB Cloud
+Language -Python <br />
+Library used for scrapping - Beautiful Soup<br />
+IDE used -Jupyter notebook <br />
+DB used -MongoDB Cloud <br />
 
 Intallations required:-
 1.Python 3.8.5
